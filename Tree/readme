@@ -1,0 +1,12 @@
+> Each element in a binary tree can have only 2 children
+
+
+=> Binary Tree Representation
+
+A Binary tree is represented by a pointer to the topmost node of the tree. If the tree is empty, then the value of the root is NULL.
+
+=> Binary Tree node contains the following parts:
+
+Data
+Pointer to left child
+Pointer to right child
